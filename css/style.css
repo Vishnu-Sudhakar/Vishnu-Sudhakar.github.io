@@ -34,6 +34,8 @@ p, .paragraph {
 
 p-lg, .paragraph-lg {
   font-size: 22px;
+  font-family: "Playfair Display", serif;
+  font-weight: 2;
 }
 
 h1, h2, h3, h4, h5, h6 {
